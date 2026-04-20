@@ -1,0 +1,13 @@
+{
+  "id": "drone-biz-services-and-pricing",
+  "title": "Services and Pricing",
+  "description": "Position your business, define your offerings, and master different pricing methods and strategies.",
+  "tags": ["drone-business", "services", "pricing", "positioning"],
+  "lessons": [
+    { "id": "positioning-your-business", "title": "Positioning Your Business", "type": "content", "markdownPath": "01_Positioning_Your_Business.md" },
+    { "id": "defining-your-offerings", "title": "Defining Your Offerings", "type": "content", "markdownPath": "02_Defining_Your_Offerings.md" },
+    { "id": "pricing-methods-and-strategies", "title": "Pricing Methods and Strategies", "type": "content", "markdownPath": "03_Pricing_Methods_And_Strategies.md" },
+    { "id": "dealing-with-customers", "title": "How to Deal With Customers", "type": "content", "markdownPath": "04_Dealing_With_Customers.md" },
+    { "id": "quiz", "title": "Services and Pricing Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

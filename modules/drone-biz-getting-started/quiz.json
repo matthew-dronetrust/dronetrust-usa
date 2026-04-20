@@ -1,0 +1,182 @@
+{
+  "title": "Getting Started Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What FAA certificate is required to fly a drone commercially in the United States?",
+      "questionHtml": "<p>What FAA certificate is required to fly a drone commercially in the United States?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Part 61 Private Pilot Certificate",
+          "textHtml": "<p>Part 61 Private Pilot Certificate</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Part 107 Remote Pilot Certificate",
+          "textHtml": "<p>Part 107 Remote Pilot Certificate</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Part 141 Flight School Certificate",
+          "textHtml": "<p>Part 141 Flight School Certificate</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "No certificate is required for small drones",
+          "textHtml": "<p>No certificate is required for small drones</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The FAA requires a Part 107 Remote Pilot Certificate for any commercial drone operation. It must be renewed every two years.",
+      "feedbackHtml": "<p>The FAA requires a Part 107 Remote Pilot Certificate for any commercial drone operation. It must be renewed every two years.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which of the following are realistic expectations when starting a drone business?",
+      "questionHtml": "<p>Select ALL that apply: Which of the following are realistic expectations when starting a drone business?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "You will spend most of your time on business tasks, not flying",
+          "textHtml": "<p>You will spend most of your time on business tasks, not flying</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_b",
+          "text": "You will need upfront investment before seeing significant revenue",
+          "textHtml": "<p>You will need upfront investment before seeing significant revenue</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "You can expect to earn $300/hour immediately",
+          "textHtml": "<p>You can expect to earn $300/hour immediately</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "You will need to differentiate yourself from existing competition",
+          "textHtml": "<p>You will need to differentiate yourself from existing competition</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Starting a drone business requires significant time on non-flying tasks, upfront investment, and competitive differentiation. High hourly rates are possible long-term but unlikely when starting out.",
+      "feedbackHtml": "<p>Starting a drone business requires significant time on non-flying tasks, upfront investment, and competitive differentiation. High hourly rates are possible long-term but unlikely when starting out.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the recommended approach for someone new to the drone industry who wants to start a business?",
+      "questionHtml": "<p>What is the recommended approach for someone new to the drone industry who wants to start a business?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Immediately invest in the most expensive equipment available",
+          "textHtml": "<p>Immediately invest in the most expensive equipment available</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_b",
+          "text": "Start part-time while building experience and savings",
+          "textHtml": "<p>Start part-time while building experience and savings</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Quit your current job immediately to focus full-time",
+          "textHtml": "<p>Quit your current job immediately to focus full-time</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "Skip the business plan and start marketing right away",
+          "textHtml": "<p>Skip the business plan and start marketing right away</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Starting part-time reduces risk. It allows you to build experience, understand seasonal business cycles, and save money before committing full-time.",
+      "feedbackHtml": "<p>Starting part-time reduces risk. It allows you to build experience, understand seasonal business cycles, and save money before committing full-time.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MATCHING",
+      "question": "Match each business plan section to its description:",
+      "questionHtml": "<p>Match each business plan section to its description:</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Market Analysis",
+          "textHtml": "<p>Market Analysis</p>",
+          "matchText": "Identifies target customers and competition",
+          "matchTextHtml": "<p>Identifies target customers and competition</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_b",
+          "text": "Financial Plan",
+          "textHtml": "<p>Financial Plan</p>",
+          "matchText": "Projects revenue, expenses, and cash flow",
+          "matchTextHtml": "<p>Projects revenue, expenses, and cash flow</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Executive Summary",
+          "textHtml": "<p>Executive Summary</p>",
+          "matchText": "One-page overview written last",
+          "matchTextHtml": "<p>One-page overview written last</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "The Market Analysis identifies your target market and competition. The Financial Plan projects your revenue and expenses. The Executive Summary is a one-page overview that is written last but appears first.",
+      "feedbackHtml": "<p>The Market Analysis identifies your target market and competition. The Financial Plan projects your revenue and expenses. The Executive Summary is a one-page overview that is written last but appears first.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is it important to understand that the drone is often just a data collection tool?",
+      "questionHtml": "<p>Why is it important to understand that the drone is often just a data collection tool?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Because drones are unreliable",
+          "textHtml": "<p>Because drones are unreliable</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Because the real value is in processing and delivering actionable results to clients",
+          "textHtml": "<p>Because the real value is in processing and delivering actionable results to clients</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Because flying is the easiest part of the job",
+          "textHtml": "<p>Because flying is the easiest part of the job</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Because clients only care about raw footage",
+          "textHtml": "<p>Because clients only care about raw footage</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Clients want actionable deliverables \u2014 inspection reports, edited videos, processed maps \u2014 not just raw data. The drone captures the data, but the real business value is in what you do with it afterward.",
+      "feedbackHtml": "<p>Clients want actionable deliverables \u2014 inspection reports, edited videos, processed maps \u2014 not just raw data. The drone captures the data, but the real business value is in what you do with it afterward.</p>"
+    }
+  ]
+}

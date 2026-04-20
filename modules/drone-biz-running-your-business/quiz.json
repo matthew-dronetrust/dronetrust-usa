@@ -1,0 +1,182 @@
+{
+  "title": "Running Your Business Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is an elevator speech?",
+      "questionHtml": "<p>What is an elevator speech?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "A formal business presentation lasting 30 minutes",
+          "textHtml": "<p>A formal business presentation lasting 30 minutes</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "A 30-second pitch covering who you are, what you do, and how you help",
+          "textHtml": "<p>A 30-second pitch covering who you are, what you do, and how you help</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "A written summary of your business plan",
+          "textHtml": "<p>A written summary of your business plan</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "A social media post about your services",
+          "textHtml": "<p>A social media post about your services</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "An elevator speech is a concise 30-second pitch that explains who you are, what you do, and how you can solve the listener's problem.",
+      "feedbackHtml": "<p>Your elevator speech should be a natural, 30-second pitch you can deliver at any time.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is customer retention more valuable than customer acquisition?",
+      "questionHtml": "<p>Why is customer retention more valuable than customer acquisition?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Existing customers always pay more",
+          "textHtml": "<p>Existing customers always pay more</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "It is significantly cheaper to sell to existing customers than to find new ones",
+          "textHtml": "<p>It is significantly cheaper to sell to existing customers than to find new ones</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "New customers are unreliable",
+          "textHtml": "<p>New customers are unreliable</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Regulations limit how many new customers you can take",
+          "textHtml": "<p>Regulations limit how many new customers you can take</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Acquiring new customers requires marketing spend and sales effort. Existing satisfied customers are more likely to buy again and refer others, making retention far more cost-effective.",
+      "feedbackHtml": "<p>Retention is cheaper than acquisition \u2014 satisfied customers buy again and refer others.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What should you do first when considering purchasing expensive new drone equipment?",
+      "questionHtml": "<p>What should you do first when considering purchasing expensive new drone equipment?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Buy it immediately to stay competitive",
+          "textHtml": "<p>Buy it immediately to stay competitive</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_b",
+          "text": "Calculate the return on investment to ensure it will pay for itself",
+          "textHtml": "<p>Calculate the return on investment to ensure it will pay for itself</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Ask your competitors what they use",
+          "textHtml": "<p>Ask your competitors what they use</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "Wait for the next model to be released",
+          "textHtml": "<p>Wait for the next model to be released</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Always calculate ROI before major purchases. Determine how many jobs it takes to pay off the investment and whether the expected revenue justifies the cost.",
+      "feedbackHtml": "<p>Calculate ROI before every major purchase to ensure it will generate enough revenue to justify the cost.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: What should you plan for when thinking about the future of your business?",
+      "questionHtml": "<p>Select ALL that apply: What should you plan for when thinking about the future of your business?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Changing FAA regulations",
+          "textHtml": "<p>Changing FAA regulations</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_b",
+          "text": "Potential economic downturns",
+          "textHtml": "<p>Potential economic downturns</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Expansion of services",
+          "textHtml": "<p>Expansion of services</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "Avoiding all risk entirely",
+          "textHtml": "<p>Avoiding all risk entirely</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Planning for regulatory changes, economic cycles, and service expansion are all important. Risk cannot be avoided entirely \u2014 it must be understood and managed.",
+      "feedbackHtml": "<p>Plan for regulations, economic cycles, and growth. Risk must be managed, not avoided entirely.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the most important financial metric to monitor on a daily basis?",
+      "questionHtml": "<p>What is the most important financial metric to monitor on a daily basis?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Total revenue",
+          "textHtml": "<p>Total revenue</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Cash flow",
+          "textHtml": "<p>Cash flow</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Number of social media followers",
+          "textHtml": "<p>Number of social media followers</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Number of drones owned",
+          "textHtml": "<p>Number of drones owned</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Cash flow is the most critical metric for daily monitoring. Without positive cash flow, your business cannot survive regardless of how profitable it looks on paper.",
+      "feedbackHtml": "<p>Cash flow is king. Without cash available to pay bills, your business cannot survive.</p>"
+    }
+  ]
+}

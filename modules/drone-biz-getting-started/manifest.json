@@ -1,0 +1,15 @@
+{
+  "id": "drone-biz-getting-started",
+  "title": "Getting Started",
+  "description": "Set realistic expectations, explore drone business opportunities, understand licensing, and prepare yourself for the journey ahead.",
+  "tags": ["drone-business", "getting-started", "licensing", "business-planning"],
+  "lessons": [
+    { "id": "introduction-and-expectations", "title": "Introduction and Expectations", "type": "content", "markdownPath": "01_Introduction_And_Expectations.md" },
+    { "id": "what-can-you-do-with-a-drone", "title": "What Can You Do With a Drone?", "type": "content", "markdownPath": "02_What_Can_You_Do_With_A_Drone.md" },
+    { "id": "reality-check", "title": "Reality Check", "type": "content", "markdownPath": "03_Reality_Check.md" },
+    { "id": "licensing-and-experience", "title": "Licensing and Building Experience", "type": "content", "markdownPath": "04_Licensing_And_Experience.md" },
+    { "id": "important-questions", "title": "Important Questions to Ask Yourself", "type": "content", "markdownPath": "05_Important_Questions.md" },
+    { "id": "business-plan-overview", "title": "Why a Business Plan and How This Course Works", "type": "content", "markdownPath": "06_Business_Plan_Overview.md" },
+    { "id": "quiz", "title": "Getting Started Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

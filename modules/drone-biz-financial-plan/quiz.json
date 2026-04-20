@@ -1,0 +1,182 @@
+{
+  "title": "Financial Plan Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the difference between gross profit and net income?",
+      "questionHtml": "<p>What is the difference between gross profit and net income?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "They are the same thing",
+          "textHtml": "<p>They are the same thing</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Gross profit is revenue minus COGS; net income also subtracts operating expenses",
+          "textHtml": "<p>Gross profit is revenue minus COGS; net income also subtracts operating expenses</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Net income is always higher than gross profit",
+          "textHtml": "<p>Net income is always higher than gross profit</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Gross profit includes taxes; net income does not",
+          "textHtml": "<p>Gross profit includes taxes; net income does not</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Gross profit = Revenue minus Cost of Goods Sold. Net income = Gross profit minus operating expenses (and other income/expenses). Net income is your true bottom line.",
+      "feedbackHtml": "<p>Gross profit subtracts only COGS from revenue. Net income further subtracts all operating expenses.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why can a profitable business still fail?",
+      "questionHtml": "<p>Why can a profitable business still fail?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Because profits are taxed too heavily",
+          "textHtml": "<p>Because profits are taxed too heavily</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "Because it runs out of cash even though it is profitable on paper",
+          "textHtml": "<p>Because it runs out of cash even though it is profitable on paper</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Because competition always undercuts prices",
+          "textHtml": "<p>Because competition always undercuts prices</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Because banks close accounts of profitable businesses",
+          "textHtml": "<p>Because banks close accounts of profitable businesses</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "A business can be profitable on paper but fail if clients pay late and cash is not available to cover ongoing expenses. Cash flow is king.",
+      "feedbackHtml": "<p>Profitability on paper means nothing if you do not have cash available to pay bills. Cash flow is king.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MATCHING",
+      "question": "Match each financial document to what it measures:",
+      "questionHtml": "<p>Match each financial document to what it measures:</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "P&L Statement",
+          "textHtml": "<p>P&L Statement</p>",
+          "matchText": "Whether the business is profitable",
+          "matchTextHtml": "<p>Whether the business is profitable</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Cash Flow Statement",
+          "textHtml": "<p>Cash Flow Statement</p>",
+          "matchText": "Whether cash is available to pay bills",
+          "matchTextHtml": "<p>Whether cash is available to pay bills</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Balance Sheet",
+          "textHtml": "<p>Balance Sheet</p>",
+          "matchText": "Snapshot of assets, liabilities, and equity",
+          "matchTextHtml": "<p>Snapshot of assets, liabilities, and equity</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "The P&L shows profitability, cash flow shows liquidity, and the balance sheet shows your financial position at a point in time.",
+      "feedbackHtml": "<p>P&L = profitability. Cash flow = liquidity. Balance sheet = financial position snapshot.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the safest approach to borrowing money from friends and family?",
+      "questionHtml": "<p>What is the safest approach to borrowing money from friends and family?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Always borrow from family first since they will not charge interest",
+          "textHtml": "<p>Always borrow from family first since they will not charge interest</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Avoid it if possible; if you must, put everything in writing and ensure they understand the risk",
+          "textHtml": "<p>Avoid it if possible; if you must, put everything in writing and ensure they understand the risk</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Borrow without formal terms to keep it friendly",
+          "textHtml": "<p>Borrow without formal terms to keep it friendly</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_d",
+          "text": "Only borrow from family members you are not close with",
+          "textHtml": "<p>Only borrow from family members you are not close with</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Most advisors recommend avoiding loans from friends and family entirely. If you must, formalize everything in writing and make sure they understand they may lose their investment.",
+      "feedbackHtml": "<p>Avoid friends-and-family loans if possible. If necessary, formalize terms and communicate the risk clearly.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is it better to overestimate expenses than to underestimate them?",
+      "questionHtml": "<p>Why is it better to overestimate expenses than to underestimate them?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "It makes your business plan look more impressive to investors",
+          "textHtml": "<p>It makes your business plan look more impressive to investors</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Because unexpected expenses are common and underestimating leads to cash shortfalls",
+          "textHtml": "<p>Because unexpected expenses are common and underestimating leads to cash shortfalls</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Tax authorities prefer higher expense estimates",
+          "textHtml": "<p>Tax authorities prefer higher expense estimates</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "It helps you charge higher prices",
+          "textHtml": "<p>It helps you charge higher prices</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Small overlooked expenses add up quickly. Overestimating gives you a buffer against unexpected costs, while underestimating can create serious cash flow problems.",
+      "feedbackHtml": "<p>Overestimating expenses creates a safety buffer. Underestimating leads to unpleasant surprises and potential cash shortfalls.</p>"
+    }
+  ]
+}

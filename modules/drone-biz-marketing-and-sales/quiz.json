@@ -1,0 +1,182 @@
+{
+  "title": "Marketing and Sales Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the correct order of stages in a sales funnel?",
+      "questionHtml": "<p>What is the correct order of stages in a sales funnel?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Interest, Awareness, Action, Decision",
+          "textHtml": "<p>Interest, Awareness, Action, Decision</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Awareness, Interest, Decision, Action",
+          "textHtml": "<p>Awareness, Interest, Decision, Action</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Decision, Action, Awareness, Interest",
+          "textHtml": "<p>Decision, Action, Awareness, Interest</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Action, Decision, Interest, Awareness",
+          "textHtml": "<p>Action, Decision, Interest, Awareness</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The four stages are Awareness (they learn you exist), Interest (they research you), Decision (they are ready to buy), and Action (they purchase).",
+      "feedbackHtml": "<p>The four stages are Awareness, Interest, Decision, and Action.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is gated content?",
+      "questionHtml": "<p>What is gated content?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Content that requires payment to access",
+          "textHtml": "<p>Content that requires payment to access</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "Valuable content offered in exchange for an email address",
+          "textHtml": "<p>Valuable content offered in exchange for an email address</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Content hidden from search engines",
+          "textHtml": "<p>Content hidden from search engines</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Content that is password-protected for existing clients",
+          "textHtml": "<p>Content that is password-protected for existing clients</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Gated content is valuable material (white papers, guides, case studies) offered for free in exchange for the visitor's email address, helping you build your mailing list.",
+      "feedbackHtml": "<p>Gated content trades valuable information for email addresses to build your mailing list.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which are effective offline marketing strategies for a drone business?",
+      "questionHtml": "<p>Select ALL that apply: Which are effective offline marketing strategies for a drone business?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Joining the local Chamber of Commerce",
+          "textHtml": "<p>Joining the local Chamber of Commerce</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Giving educational presentations to potential client groups",
+          "textHtml": "<p>Giving educational presentations to potential client groups</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Posting on social media daily",
+          "textHtml": "<p>Posting on social media daily</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "Vehicle branding with your logo and services",
+          "textHtml": "<p>Vehicle branding with your logo and services</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Chamber of Commerce, educational presentations, and vehicle branding are offline strategies. Social media posting is online marketing.",
+      "feedbackHtml": "<p>Chamber membership, presentations, and vehicle branding are effective offline strategies.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the most important thing to track with paid advertising?",
+      "questionHtml": "<p>What is the most important thing to track with paid advertising?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "How many people see your ad",
+          "textHtml": "<p>How many people see your ad</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "How many likes or shares you receive",
+          "textHtml": "<p>How many likes or shares you receive</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_c",
+          "text": "Whether the ad generates more revenue than it costs",
+          "textHtml": "<p>Whether the ad generates more revenue than it costs</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "How professional the ad looks",
+          "textHtml": "<p>How professional the ad looks</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Return on investment is what matters most. Views and engagement are meaningless if they do not convert into paying customers.",
+      "feedbackHtml": "<p>ROI is the key metric \u2014 views and likes mean nothing if they do not generate revenue.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should business assumptions be documented in your plan?",
+      "questionHtml": "<p>Why should business assumptions be documented in your plan?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "To impress investors",
+          "textHtml": "<p>To impress investors</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "So you can identify and manage the risks in your plan",
+          "textHtml": "<p>So you can identify and manage the risks in your plan</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Because banks require them",
+          "textHtml": "<p>Because banks require them</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "To predict the future accurately",
+          "textHtml": "<p>To predict the future accurately</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Documenting assumptions helps you understand the risks in your plan. If assumptions prove wrong, you can quickly identify what needs to change.",
+      "feedbackHtml": "<p>Documented assumptions help identify risks and enable quick adjustments when reality differs from projections.</p>"
+    }
+  ]
+}

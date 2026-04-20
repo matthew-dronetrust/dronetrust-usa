@@ -1,0 +1,13 @@
+{
+  "id": "drone-biz-running-your-business",
+  "title": "Running Your Business",
+  "description": "Practical tips for finding customers, managing finances, making decisions, and planning for long-term success.",
+  "tags": ["drone-business", "operations", "customer-management", "growth"],
+  "lessons": [
+    { "id": "executive-summary", "title": "Writing Your Executive Summary", "type": "content", "markdownPath": "01_Executive_Summary.md" },
+    { "id": "finding-and-managing-customers", "title": "Finding and Managing Customers", "type": "content", "markdownPath": "02_Finding_And_Managing_Customers.md" },
+    { "id": "finances-and-decisions", "title": "Managing Finances, ROI, and Making Decisions", "type": "content", "markdownPath": "03_Finances_And_Decisions.md" },
+    { "id": "planning-for-the-future", "title": "Planning for the Future", "type": "content", "markdownPath": "04_Planning_For_The_Future.md" },
+    { "id": "quiz", "title": "Running Your Business Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

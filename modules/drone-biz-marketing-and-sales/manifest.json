@@ -1,0 +1,13 @@
+{
+  "id": "drone-biz-marketing-and-sales",
+  "title": "Marketing and Sales",
+  "description": "Build your marketing strategy with offline media, online marketing, sales funnels, content marketing, and advertising.",
+  "tags": ["drone-business", "marketing", "sales", "advertising"],
+  "lessons": [
+    { "id": "offline-marketing", "title": "Offline Marketing Strategies", "type": "content", "markdownPath": "01_Offline_Marketing.md" },
+    { "id": "online-marketing-and-social-media", "title": "Online Marketing and Social Media", "type": "content", "markdownPath": "02_Online_Marketing_And_Social_Media.md" },
+    { "id": "sales-funnels-and-mailing-lists", "title": "Sales Funnels and Mailing Lists", "type": "content", "markdownPath": "03_Sales_Funnels_And_Mailing_Lists.md" },
+    { "id": "advertising-and-promotions", "title": "Advertising, Promotions, and Metrics", "type": "content", "markdownPath": "04_Advertising_And_Promotions.md" },
+    { "id": "quiz", "title": "Marketing and Sales Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

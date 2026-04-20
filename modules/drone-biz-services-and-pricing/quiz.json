@@ -1,0 +1,182 @@
+{
+  "title": "Services and Pricing Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In value-based pricing, what determines your price?",
+      "questionHtml": "<p>In value-based pricing, what determines your price?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "The cost of your equipment",
+          "textHtml": "<p>The cost of your equipment</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "What your competitors charge",
+          "textHtml": "<p>What your competitors charge</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_c",
+          "text": "The value your service delivers to the customer",
+          "textHtml": "<p>The value your service delivers to the customer</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_d",
+          "text": "The minimum wage in your area",
+          "textHtml": "<p>The minimum wage in your area</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Value-based pricing sets your price based on how much value you deliver to the customer, not your costs or competitors' prices.",
+      "feedbackHtml": "<p>Value-based pricing sets your price based on how much value you deliver to the customer.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does the fast-cheap-good triangle tell us?",
+      "questionHtml": "<p>What does the fast-cheap-good triangle tell us?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Customers can have all three if they pay enough",
+          "textHtml": "<p>Customers can have all three if they pay enough</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "Customers can only pick two of the three",
+          "textHtml": "<p>Customers can only pick two of the three</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Fast service is always the most important",
+          "textHtml": "<p>Fast service is always the most important</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Cheap services are always low quality",
+          "textHtml": "<p>Cheap services are always low quality</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The fast-cheap-good triangle shows that customers can only choose two: good and fast is not cheap, good and cheap is not fast, and fast and cheap is not good.",
+      "feedbackHtml": "<p>Customers can only choose two of the three attributes at once.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which are common pricing mistakes to avoid?",
+      "questionHtml": "<p>Select ALL that apply: Which are common pricing mistakes to avoid?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Being the lowest-priced option in the market",
+          "textHtml": "<p>Being the lowest-priced option in the market</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Underestimating your total costs",
+          "textHtml": "<p>Underestimating your total costs</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Using psychological pricing like $995 instead of $1000",
+          "textHtml": "<p>Using psychological pricing like $995 instead of $1000</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "Forgetting to account for travel time and expenses",
+          "textHtml": "<p>Forgetting to account for travel time and expenses</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Being the cheapest signals low quality. Underestimating costs and forgetting travel expenses destroy profitability. Psychological pricing is a valid strategy, not a mistake.",
+      "feedbackHtml": "<p>Being cheapest, underestimating costs, and forgetting travel expenses are common pricing mistakes. Psychological pricing is a valid strategy.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should you always show the full price on invoices even when giving a discount?",
+      "questionHtml": "<p>Why should you always show the full price on invoices even when giving a discount?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "It is required by law",
+          "textHtml": "<p>It is required by law</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "So the client understands the true value and does not expect the discount permanently",
+          "textHtml": "<p>So the client understands the true value and does not expect the discount permanently</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "To make the invoice look more professional",
+          "textHtml": "<p>To make the invoice look more professional</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_d",
+          "text": "To calculate taxes correctly",
+          "textHtml": "<p>To calculate taxes correctly</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Showing the full price ensures the client understands the real value of your service and will not expect the discounted price to be your standard rate.",
+      "feedbackHtml": "<p>Showing full value ensures clients understand the discount is a gesture, not your standard pricing.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MATCHING",
+      "question": "Match each pricing method to its approach:",
+      "questionHtml": "<p>Match each pricing method to its approach:</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Market-Based",
+          "textHtml": "<p>Market-Based</p>",
+          "matchText": "Price relative to what competitors charge",
+          "matchTextHtml": "<p>Price relative to what competitors charge</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_b",
+          "text": "Value-Based",
+          "textHtml": "<p>Value-Based</p>",
+          "matchText": "Price based on the benefit delivered to the client",
+          "matchTextHtml": "<p>Price based on the benefit delivered to the client</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Cost-Plus",
+          "textHtml": "<p>Cost-Plus</p>",
+          "matchText": "Calculate all costs then add a markup percentage",
+          "matchTextHtml": "<p>Calculate all costs then add a markup percentage</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Market-based pricing uses competitor rates, value-based uses customer benefit, and cost-plus adds a markup to your total costs.",
+      "feedbackHtml": "<p>Each method uses a different basis: competitors, customer value, or your own costs.</p>"
+    }
+  ]
+}

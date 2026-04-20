@@ -1,0 +1,12 @@
+{
+  "id": "drone-biz-financial-plan",
+  "title": "Financial Plan",
+  "description": "Learn to create profit and loss statements, cash flow projections, balance sheets, and funding strategies.",
+  "tags": ["drone-business", "financial-planning", "profit-loss", "cash-flow"],
+  "lessons": [
+    { "id": "profit-and-loss", "title": "Understanding Profit and Loss", "type": "content", "markdownPath": "01_Profit_And_Loss.md" },
+    { "id": "cash-flow-and-balance-sheet", "title": "Cash Flow and Balance Sheet", "type": "content", "markdownPath": "02_Cash_Flow_And_Balance_Sheet.md" },
+    { "id": "payment-terms-and-funding", "title": "Payment Terms and Getting Funds", "type": "content", "markdownPath": "03_Payment_Terms_And_Funding.md" },
+    { "id": "quiz", "title": "Financial Plan Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

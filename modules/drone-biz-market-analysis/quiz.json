@@ -1,0 +1,182 @@
+{
+  "title": "Market Analysis Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does SOM stand for in market analysis?",
+      "questionHtml": "<p>What does SOM stand for in market analysis?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Sum of Marketing",
+          "textHtml": "<p>Sum of Marketing</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Share of Market",
+          "textHtml": "<p>Share of Market</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Segment of Money",
+          "textHtml": "<p>Segment of Money</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Size of Market",
+          "textHtml": "<p>Size of Market</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "SOM stands for Share of Market \u2014 the realistic portion of your target market you can capture. It is the most focused of the three tiers (TAM > SAM > SOM).",
+      "feedbackHtml": "<p>SOM stands for Share of Market \u2014 the realistic portion of your target market you can capture.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "When analyzing your competition, what should you focus on selling to differentiate yourself?",
+      "questionHtml": "<p>When analyzing your competition, what should you focus on selling to differentiate yourself?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "The brand and model of your drone equipment",
+          "textHtml": "<p>The brand and model of your drone equipment</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "The results and deliverables you provide to clients",
+          "textHtml": "<p>The results and deliverables you provide to clients</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "The number of years you have been flying",
+          "textHtml": "<p>The number of years you have been flying</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "The lowest possible price",
+          "textHtml": "<p>The lowest possible price</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Clients care about results, not your equipment. Focus your competitive positioning on the quality of deliverables and outcomes you provide.",
+      "feedbackHtml": "<p>Clients care about results, not your equipment. Focus your competitive positioning on the quality of deliverables and outcomes you provide.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: What are examples of indirect competition for a drone business?",
+      "questionHtml": "<p>Select ALL that apply: What are examples of indirect competition for a drone business?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Satellite imagery providers",
+          "textHtml": "<p>Satellite imagery providers</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Ground-based roof inspectors",
+          "textHtml": "<p>Ground-based roof inspectors</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Other drone operators",
+          "textHtml": "<p>Other drone operators</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "Helicopter-based inspection services",
+          "textHtml": "<p>Helicopter-based inspection services</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Indirect competitors provide alternative solutions to the same problem. Satellites, ground crews, and helicopters are all indirect competitors. Other drone operators are direct competitors.",
+      "feedbackHtml": "<p>Indirect competitors provide alternative solutions to the same problem using different methods.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How should you handle unlicensed drone operators competing in your market?",
+      "questionHtml": "<p>How should you handle unlicensed drone operators competing in your market?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Report every unlicensed operator to the FAA",
+          "textHtml": "<p>Report every unlicensed operator to the FAA</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Lower your prices to match theirs",
+          "textHtml": "<p>Lower your prices to match theirs</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_c",
+          "text": "Educate your clients about the risks of hiring unlicensed operators",
+          "textHtml": "<p>Educate your clients about the risks of hiring unlicensed operators</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "Ignore the problem entirely",
+          "textHtml": "<p>Ignore the problem entirely</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Focus on educating your clients about the liability and safety risks of hiring unlicensed operators, rather than wasting time policing competitors. Report only genuinely dangerous behavior.",
+      "feedbackHtml": "<p>Focus on educating clients about the risks rather than policing competitors. Report only dangerous behavior.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MATCHING",
+      "question": "Match each market analysis term to its definition:",
+      "questionHtml": "<p>Match each market analysis term to its definition:</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "TAM",
+          "textHtml": "<p>TAM</p>",
+          "matchText": "Total Available Market \u2014 everyone you could reach",
+          "matchTextHtml": "<p>Total Available Market \u2014 everyone you could reach</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_b",
+          "text": "SAM",
+          "textHtml": "<p>SAM</p>",
+          "matchText": "Segmented Available Market \u2014 your target portion",
+          "matchTextHtml": "<p>Segmented Available Market \u2014 your target portion</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "SOM",
+          "textHtml": "<p>SOM</p>",
+          "matchText": "Share of Market \u2014 what you can realistically capture",
+          "matchTextHtml": "<p>Share of Market \u2014 what you can realistically capture</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "TAM is your total potential market, SAM is the segment you target, and SOM is the realistic share you can capture.",
+      "feedbackHtml": "<p>TAM is your total potential market, SAM is the segment you target, and SOM is the realistic share you can capture.</p>"
+    }
+  ]
+}

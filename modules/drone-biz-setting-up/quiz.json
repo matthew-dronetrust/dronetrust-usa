@@ -1,0 +1,182 @@
+{
+  "title": "Setting Up Your Business Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should you buy your domain name before filing your LLC paperwork?",
+      "questionHtml": "<p>Why should you buy your domain name before filing your LLC paperwork?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Domain names are more expensive after you register an LLC",
+          "textHtml": "<p>Domain names are more expensive after you register an LLC</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "To prevent someone else from claiming your business name online while you complete paperwork",
+          "textHtml": "<p>To prevent someone else from claiming your business name online while you complete paperwork</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "The LLC requires a domain name on the application",
+          "textHtml": "<p>The LLC requires a domain name on the application</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Registrars offer discounts to new businesses",
+          "textHtml": "<p>Registrars offer discounts to new businesses</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Securing your domain and social media accounts before filing paperwork prevents others from claiming your chosen business name online during the registration process.",
+      "feedbackHtml": "<p>Secure your digital presence first to prevent others from claiming your business name online.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What should your portfolio focus on showcasing?",
+      "questionHtml": "<p>What should your portfolio focus on showcasing?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Your drone equipment and specifications",
+          "textHtml": "<p>Your drone equipment and specifications</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "The quality of your deliverables and results",
+          "textHtml": "<p>The quality of your deliverables and results</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Your certifications and licenses",
+          "textHtml": "<p>Your certifications and licenses</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Testimonials from friends and family",
+          "textHtml": "<p>Testimonials from friends and family</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Clients care about results. Your portfolio should showcase the quality of your deliverables \u2014 the photos, videos, maps, or reports they will receive.",
+      "feedbackHtml": "<p>Focus on showing clients the quality of work they will receive, not your equipment.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: What makes a website effective for a drone business?",
+      "questionHtml": "<p>Select ALL that apply: What makes a website effective for a drone business?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Mobile-friendly design",
+          "textHtml": "<p>Mobile-friendly design</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Search engine optimization",
+          "textHtml": "<p>Search engine optimization</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Clear pricing and calls to action",
+          "textHtml": "<p>Clear pricing and calls to action</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_d",
+          "text": "As many pages as possible with detailed information",
+          "textHtml": "<p>As many pages as possible with detailed information</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Effective websites are mobile-friendly, optimized for search, and have clear pricing with calls to action. Too many pages actually frustrate visitors and reduce conversions.",
+      "feedbackHtml": "<p>Quality over quantity \u2014 mobile-friendly, SEO-optimized, with clear pricing and calls to action.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is SEO?",
+      "questionHtml": "<p>What is SEO?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Social Engine Optimization \u2014 improving social media performance",
+          "textHtml": "<p>Social Engine Optimization \u2014 improving social media performance</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Search Engine Optimization \u2014 techniques to get your website found on Google",
+          "textHtml": "<p>Search Engine Optimization \u2014 techniques to get your website found on Google</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Sales Enhancement Online \u2014 tools for selling products",
+          "textHtml": "<p>Sales Enhancement Online \u2014 tools for selling products</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_d",
+          "text": "Secure Electronic Operations \u2014 website security measures",
+          "textHtml": "<p>Secure Electronic Operations \u2014 website security measures</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "SEO (Search Engine Optimization) is a set of techniques to improve your website's visibility in search engine results, helping potential customers find you organically.",
+      "feedbackHtml": "<p>SEO helps your website appear in search results when potential customers search for your services.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should you respond to negative reviews professionally?",
+      "questionHtml": "<p>Why should you respond to negative reviews professionally?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "To get the review removed",
+          "textHtml": "<p>To get the review removed</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Because future customers will judge you by how you handle criticism",
+          "textHtml": "<p>Because future customers will judge you by how you handle criticism</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "To prove the reviewer wrong",
+          "textHtml": "<p>To prove the reviewer wrong</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Reviews have no real impact on business",
+          "textHtml": "<p>Reviews have no real impact on business</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Future customers read your responses to negative reviews to gauge your professionalism. A thoughtful, professional response can actually build trust more than a five-star review.",
+      "feedbackHtml": "<p>How you respond to criticism tells future customers about your professionalism and character.</p>"
+    }
+  ]
+}

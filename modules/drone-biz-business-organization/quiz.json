@@ -1,0 +1,182 @@
+{
+  "title": "Business Organization Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which business structure is most commonly recommended for drone businesses?",
+      "questionHtml": "<p>Which business structure is most commonly recommended for drone businesses?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Sole Proprietorship",
+          "textHtml": "<p>Sole Proprietorship</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Partnership",
+          "textHtml": "<p>Partnership</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_c",
+          "text": "LLC (Limited Liability Company)",
+          "textHtml": "<p>LLC (Limited Liability Company)</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_d",
+          "text": "C-Corporation",
+          "textHtml": "<p>C-Corporation</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "An LLC provides personal liability protection with simpler administration than a corporation, making it the most practical choice for most drone businesses.",
+      "feedbackHtml": "<p>An LLC provides liability protection with simpler administration than a corporation.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: What types of insurance should a drone business consider?",
+      "questionHtml": "<p>Select ALL that apply: What types of insurance should a drone business consider?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "General liability insurance",
+          "textHtml": "<p>General liability insurance</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_b",
+          "text": "Professional liability (aviation) insurance",
+          "textHtml": "<p>Professional liability (aviation) insurance</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Home-based business insurance",
+          "textHtml": "<p>Home-based business insurance</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_d",
+          "text": "Life insurance for the drone",
+          "textHtml": "<p>Life insurance for the drone</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "General liability, professional liability, and home-based business insurance are all important for drone businesses. Hull insurance covers equipment, but there is no life insurance for drones.",
+      "feedbackHtml": "<p>General liability, professional liability, and home-based business insurance are all relevant for drone operators.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is it critical to keep business and personal finances completely separate?",
+      "questionHtml": "<p>Why is it critical to keep business and personal finances completely separate?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "It makes tax filing slightly easier",
+          "textHtml": "<p>It makes tax filing slightly easier</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_b",
+          "text": "A judge could eliminate your LLC liability protection if finances are mixed",
+          "textHtml": "<p>A judge could eliminate your LLC liability protection if finances are mixed</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Banks require it for all business accounts",
+          "textHtml": "<p>Banks require it for all business accounts</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "It is required by the FAA",
+          "textHtml": "<p>It is required by the FAA</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "If personal and business finances are intermingled, a judge can pierce the corporate veil and eliminate your LLC's liability protection, exposing your personal assets.",
+      "feedbackHtml": "<p>Mixing finances can cause a judge to pierce the corporate veil, eliminating your liability protection.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MATCHING",
+      "question": "Match each business structure to its liability protection level:",
+      "questionHtml": "<p>Match each business structure to its liability protection level:</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Sole Proprietorship",
+          "textHtml": "<p>Sole Proprietorship</p>",
+          "matchText": "No personal liability protection",
+          "matchTextHtml": "<p>No personal liability protection</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_b",
+          "text": "LLC",
+          "textHtml": "<p>LLC</p>",
+          "matchText": "Personal liability protection with some limits",
+          "matchTextHtml": "<p>Personal liability protection with some limits</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "S-Corporation",
+          "textHtml": "<p>S-Corporation</p>",
+          "matchText": "Liability protection with pass-through taxation",
+          "matchTextHtml": "<p>Liability protection with pass-through taxation</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "Sole proprietorships offer no protection. LLCs and S-Corps both offer limited liability protection, with S-Corps providing pass-through taxation benefits.",
+      "feedbackHtml": "<p>Protection increases from sole proprietorship (none) to LLC and S-Corp (limited protection).</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is an EIN?",
+      "questionHtml": "<p>What is an EIN?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Electronic Invoice Number",
+          "textHtml": "<p>Electronic Invoice Number</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Employer Identification Number \u2014 like a Social Security Number for your business",
+          "textHtml": "<p>Employer Identification Number \u2014 like a Social Security Number for your business</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_c",
+          "text": "Estimated Income Number",
+          "textHtml": "<p>Estimated Income Number</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Equipment Insurance Number",
+          "textHtml": "<p>Equipment Insurance Number</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "An EIN (Employer Identification Number) is the IRS equivalent of a Social Security Number for your business. Apply for it at irs.gov.",
+      "feedbackHtml": "<p>An EIN is your business's identification number with the IRS. Apply for free at irs.gov.</p>"
+    }
+  ]
+}

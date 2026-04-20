@@ -1,0 +1,12 @@
+{
+  "id": "drone-biz-business-organization",
+  "title": "Business Organization",
+  "description": "Choose your business structure, understand tax implications, protect yourself with insurance, and plan your team.",
+  "tags": ["drone-business", "business-structure", "insurance", "legal"],
+  "lessons": [
+    { "id": "team-and-mission", "title": "Your Team and Mission Statement", "type": "content", "markdownPath": "01_Team_And_Mission.md" },
+    { "id": "business-structures", "title": "Choosing a Business Structure", "type": "content", "markdownPath": "02_Business_Structures.md" },
+    { "id": "insurance-and-protection", "title": "Insurance and Protecting Yourself", "type": "content", "markdownPath": "03_Insurance_And_Protection.md" },
+    { "id": "quiz", "title": "Business Organization Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

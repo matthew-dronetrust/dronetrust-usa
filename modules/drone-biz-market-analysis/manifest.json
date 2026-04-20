@@ -1,0 +1,13 @@
+{
+  "id": "drone-biz-market-analysis",
+  "title": "Market Analysis",
+  "description": "Define the problem you solve, identify your target market, analyze competition, and understand industry trends.",
+  "tags": ["drone-business", "market-analysis", "market-research", "competition"],
+  "lessons": [
+    { "id": "problem-and-solution", "title": "Defining Your Problem and Solution", "type": "content", "markdownPath": "01_Problem_And_Solution.md" },
+    { "id": "market-segmentation", "title": "Market Segmentation and TAM, SAM, SOM", "type": "content", "markdownPath": "02_Market_Segmentation.md" },
+    { "id": "target-market", "title": "Understanding Your Target Market", "type": "content", "markdownPath": "03_Target_Market.md" },
+    { "id": "competition-and-trends", "title": "Competition, Trends, and Future Products", "type": "content", "markdownPath": "04_Competition_And_Trends.md" },
+    { "id": "quiz", "title": "Market Analysis Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

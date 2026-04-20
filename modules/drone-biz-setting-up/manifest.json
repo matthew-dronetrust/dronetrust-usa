@@ -1,0 +1,13 @@
+{
+  "id": "drone-biz-setting-up",
+  "title": "Setting Up Your Business",
+  "description": "Name your business, secure your domain, create your LLC, set up financial accounts, build your online presence, and launch.",
+  "tags": ["drone-business", "business-setup", "branding", "online-presence"],
+  "lessons": [
+    { "id": "name-domain-and-legal", "title": "Naming, Domain, and Legalizing Your Business", "type": "content", "markdownPath": "01_Name_Domain_And_Legal.md" },
+    { "id": "financial-accounts-and-getting-paid", "title": "Financial Accounts and Getting Paid", "type": "content", "markdownPath": "02_Financial_Accounts_And_Getting_Paid.md" },
+    { "id": "portfolio-and-marketing-materials", "title": "Portfolio, Branding, and Marketing Materials", "type": "content", "markdownPath": "03_Portfolio_And_Marketing_Materials.md" },
+    { "id": "online-presence", "title": "Building Your Online Presence", "type": "content", "markdownPath": "04_Online_Presence.md" },
+    { "id": "quiz", "title": "Setting Up Your Business Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

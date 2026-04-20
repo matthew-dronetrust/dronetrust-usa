@@ -1,0 +1,17 @@
+{
+  "id": "how-to-start-a-drone-business",
+  "title": "How to Start a Drone Business",
+  "description": "Learn how to plan, launch, and grow a successful drone business. This course walks you through creating a business plan, understanding your market, pricing your services, setting up your legal structure, managing finances, and running day-to-day operations — all with practical assignments and real-world examples.",
+  "estimatedDuration": "4-6 hours",
+  "welcomePath": "welcome.md",
+  "modules": [
+    "drone-biz-getting-started",
+    "drone-biz-market-analysis",
+    "drone-biz-services-and-pricing",
+    "drone-biz-marketing-and-sales",
+    "drone-biz-business-organization",
+    "drone-biz-financial-plan",
+    "drone-biz-setting-up",
+    "drone-biz-running-your-business"
+  ]
+}
