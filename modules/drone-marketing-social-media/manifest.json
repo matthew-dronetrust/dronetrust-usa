@@ -1,0 +1,13 @@
+{
+  "id": "drone-marketing-social-media",
+  "title": "Social Media for Drone Pilots",
+  "description": "Choose the right platforms, develop content pillars, set a sustainable cadence, and grow an audience that actually books work — without burning out or chasing trends.",
+  "tags": ["drone-business", "marketing", "social-media", "content"],
+  "lessons": [
+    { "id": "choosing-platforms", "title": "Choosing the Right Platforms", "type": "content", "markdownPath": "01_Choosing_Platforms.md" },
+    { "id": "content-pillars", "title": "Content Pillars and Storytelling", "type": "content", "markdownPath": "02_Content_Pillars.md" },
+    { "id": "cadence-and-tools", "title": "Posting Cadence and Tools", "type": "content", "markdownPath": "03_Cadence_And_Tools.md" },
+    { "id": "growing-audience", "title": "Growing and Engaging Your Audience", "type": "content", "markdownPath": "04_Growing_Audience.md" },
+    { "id": "quiz", "title": "Social Media Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/courselist.tsx","./src/components/courseview.tsx","./src/components/lessonview.tsx","./src/components/markdown.tsx","./src/components/quiz.tsx","./src/lib/content.ts"],"version":"5.9.3"}

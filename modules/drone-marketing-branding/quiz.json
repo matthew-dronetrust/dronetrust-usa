@@ -1,0 +1,182 @@
+{
+  "title": "Branding Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does 'a brand' actually refer to in this course?",
+      "questionHtml": "<p>What does 'a brand' actually refer to in this course?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "A logo and colour palette",
+          "textHtml": "<p>A logo and colour palette</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "The consistent promise and feeling customers can expect across every interaction",
+          "textHtml": "<p>The consistent promise and feeling customers can expect across every interaction</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Your registered LLC name",
+          "textHtml": "<p>Your registered LLC name</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Your social media follower count",
+          "textHtml": "<p>Your social media follower count</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "A brand is a consistent promise and feeling. The logo is one of many ways that promise gets transmitted, but the brand itself is something larger.",
+      "feedbackHtml": "<p>A brand is the consistent promise and feeling — the visuals are how it is transmitted.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In what order should the three layers of a brand be built?",
+      "questionHtml": "<p>In what order should the three layers of a brand be built?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Visuals → Voice → Core",
+          "textHtml": "<p>Visuals → Voice → Core</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "Core → Voice → Visuals",
+          "textHtml": "<p>Core → Voice → Visuals</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Voice → Visuals → Core",
+          "textHtml": "<p>Voice → Visuals → Core</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_d",
+          "text": "Visuals → Core → Voice",
+          "textHtml": "<p>Visuals → Core → Voice</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Decide who you are and how you sound first. The visuals will then practically design themselves. Most operators get this backwards.",
+      "feedbackHtml": "<p>Build inside-out: core, then voice, then visuals.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Common naming mistakes for drone businesses.",
+      "questionHtml": "<p>Select ALL that apply: Common naming mistakes for drone businesses.</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Names that are too literal and lock you into one service forever",
+          "textHtml": "<p>Names that are too literal and lock you into one service forever</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "Names that are too cute or jokey for B2B contexts",
+          "textHtml": "<p>Names that are too cute or jokey for B2B contexts</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Names that are too generic and impossible to trademark",
+          "textHtml": "<p>Names that are too generic and impossible to trademark</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_d",
+          "text": "Names that sound clear when spoken on the phone",
+          "textHtml": "<p>Names that sound clear when spoken on the phone</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Too literal, too cute, and too generic are all common pitfalls. Phone-clarity is a *positive* trait, not a mistake.",
+      "feedbackHtml": "<p>Avoid names that are too literal, too cute, or too generic.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should drone operators apply a consistent colour grade or LUT to all video?",
+      "questionHtml": "<p>Why should drone operators apply a consistent colour grade or LUT to all video?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Because the FAA requires colour-correct footage",
+          "textHtml": "<p>Because the FAA requires colour-correct footage</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Because consistent grading makes your work recognisable in a feed before viewers see your name",
+          "textHtml": "<p>Because consistent grading makes your work recognisable in a feed before viewers see your name</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Because it speeds up rendering",
+          "textHtml": "<p>Because it speeds up rendering</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_d",
+          "text": "Because clients explicitly ask for it",
+          "textHtml": "<p>Because clients explicitly ask for it</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "A consistent colour grade is the visual fingerprint of a drone brand. People recognise it subconsciously while scrolling, even before they read the caption or see the logo.",
+      "feedbackHtml": "<p>Consistent grading is what makes your work recognisable in the feed.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the goal of positioning?",
+      "questionHtml": "<p>What is the goal of positioning?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "To be the cheapest option in your area",
+          "textHtml": "<p>To be the cheapest option in your area</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "To rank first on Google",
+          "textHtml": "<p>To rank first on Google</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_c",
+          "text": "To become the obvious choice in a customer's mind for a specific kind of need",
+          "textHtml": "<p>To become the obvious choice in a customer's mind for a specific kind of need</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_d",
+          "text": "To have the most followers on Instagram",
+          "textHtml": "<p>To have the most followers on Instagram</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Positioning is about being the most obvious choice for a specific customer with a specific need — not about being the best, cheapest, or most-followed.",
+      "feedbackHtml": "<p>Positioning aims to make you the obvious choice for a specific need.</p>"
+    }
+  ]
+}

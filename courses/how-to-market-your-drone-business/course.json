@@ -1,0 +1,13 @@
+{
+  "id": "how-to-market-your-drone-business",
+  "title": "How to Market Your Drone Business",
+  "description": "Build a marketing system that produces real inquiries — covering foundations, branding, social media, and the client conversations that turn interest into revenue. Practical assignments throughout, with no fluff.",
+  "estimatedDuration": "3-4 hours",
+  "welcomePath": "welcome.md",
+  "modules": [
+    "drone-marketing-foundations",
+    "drone-marketing-branding",
+    "drone-marketing-social-media",
+    "drone-marketing-client-conversations"
+  ]
+}

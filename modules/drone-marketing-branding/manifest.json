@@ -1,0 +1,13 @@
+{
+  "id": "drone-marketing-branding",
+  "title": "Branding Your Drone Business",
+  "description": "Build a brand that signals trust and stands out — covering what branding really means, naming and logo, brand voice and visual identity, and positioning against competitors.",
+  "tags": ["drone-business", "branding", "identity", "positioning"],
+  "lessons": [
+    { "id": "what-branding-means", "title": "What Branding Really Means", "type": "content", "markdownPath": "01_What_Branding_Means.md" },
+    { "id": "naming-and-logo", "title": "Choosing a Name and Logo", "type": "content", "markdownPath": "02_Naming_And_Logo.md" },
+    { "id": "voice-and-visual-identity", "title": "Brand Voice and Visual Identity", "type": "content", "markdownPath": "03_Voice_And_Visual_Identity.md" },
+    { "id": "positioning", "title": "Positioning and Standing Out", "type": "content", "markdownPath": "04_Positioning.md" },
+    { "id": "quiz", "title": "Branding Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

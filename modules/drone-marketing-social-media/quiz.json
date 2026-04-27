@@ -1,0 +1,182 @@
+{
+  "title": "Social Media Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which platforms should a solo drone operator focus on first?",
+      "questionHtml": "<p>Which platforms should a solo drone operator focus on first?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Every major platform — be everywhere your buyers might be",
+          "textHtml": "<p>Every major platform — be everywhere your buyers might be</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Two platforms — one for discovery, one for trust — and ignore the rest for at least six months",
+          "textHtml": "<p>Two platforms — one for discovery, one for trust — and ignore the rest for at least six months</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Whichever platform produces the most likes",
+          "textHtml": "<p>Whichever platform produces the most likes</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Only TikTok — it has the highest reach",
+          "textHtml": "<p>Only TikTok — it has the highest reach</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The two-platform rule keeps you focused. One discovery platform brings new people in, one trust platform deepens relationships. More than two splits your attention before you have momentum.",
+      "feedbackHtml": "<p>Pick two platforms — one discovery, one trust — and ignore the rest at first.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which are good content pillars for a drone business?",
+      "questionHtml": "<p>Select ALL that apply: Which are good content pillars for a drone business?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Work — showcase reels and edited highlights",
+          "textHtml": "<p>Work — showcase reels and edited highlights</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_b",
+          "text": "Expertise — tips, education, behind-the-scenes",
+          "textHtml": "<p>Expertise — tips, education, behind-the-scenes</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Story — who you are, why you fly",
+          "textHtml": "<p>Story — who you are, why you fly</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_d",
+          "text": "Proof — case studies, testimonials, results",
+          "textHtml": "<p>Proof — case studies, testimonials, results</p>",
+          "correct": true
+        }
+      ],
+      "feedback": "All four are core pillars: work, expertise, story, and proof. Rotating through them keeps your feed varied and serves both attention and trust.",
+      "feedbackHtml": "<p>Work, expertise, story, and proof are all core pillars.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the main benefit of batching social media work (capture → edit → caption → schedule)?",
+      "questionHtml": "<p>What is the main benefit of batching social media work (capture → edit → caption → schedule)?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Higher reach on the algorithm",
+          "textHtml": "<p>Higher reach on the algorithm</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_b",
+          "text": "It turns social into a focused weekly task instead of a daily drain",
+          "textHtml": "<p>It turns social into a focused weekly task instead of a daily drain</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "It guarantees viral content",
+          "textHtml": "<p>It guarantees viral content</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "It is a requirement of every scheduling tool",
+          "textHtml": "<p>It is a requirement of every scheduling tool</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Batching protects your time. You spend three to four focused hours and cover two weeks — far more sustainable than trying to post in real time.",
+      "feedbackHtml": "<p>Batching makes social a weekly task, not a daily drain.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which is the highest-ROI social activity for a solo drone operator?",
+      "questionHtml": "<p>Which is the highest-ROI social activity for a solo drone operator?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Posting more reels to your own feed",
+          "textHtml": "<p>Posting more reels to your own feed</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Buying paid followers to look established",
+          "textHtml": "<p>Buying paid followers to look established</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_c",
+          "text": "Spending time in your buyers' world — thoughtful comments on prospects' posts and industry groups",
+          "textHtml": "<p>Spending time in your buyers' world — thoughtful comments on prospects' posts and industry groups</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "Joining engagement pods with other drone pilots",
+          "textHtml": "<p>Joining engagement pods with other drone pilots</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Engaging directly with prospects — leaving on-topic, helpful comments where they post — outperforms posting more in your own feed.",
+      "feedbackHtml": "<p>Engaging in buyers' world is the highest-ROI activity.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why should you not optimise primarily for follower count?",
+      "questionHtml": "<p>Why should you not optimise primarily for follower count?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Followers do not pay invoices — quality of audience matters more than quantity",
+          "textHtml": "<p>Followers do not pay invoices — quality of audience matters more than quantity</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_b",
+          "text": "Algorithms ignore follower counts entirely",
+          "textHtml": "<p>Algorithms ignore follower counts entirely</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_c",
+          "text": "Follower counts are private",
+          "textHtml": "<p>Follower counts are private</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_d",
+          "text": "Followers will eventually unfollow",
+          "textHtml": "<p>Followers will eventually unfollow</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "An audience of 800 real prospects beats 80,000 generic followers every time. Audience composition is what converts to inquiries.",
+      "feedbackHtml": "<p>Quality of audience drives revenue, not raw follower counts.</p>"
+    }
+  ]
+}

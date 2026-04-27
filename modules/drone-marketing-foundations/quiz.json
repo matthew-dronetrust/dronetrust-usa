@@ -1,0 +1,182 @@
+{
+  "title": "Marketing Foundations Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which best describes the difference between marketing and selling?",
+      "questionHtml": "<p>Which best describes the difference between marketing and selling?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Marketing is digital, selling is in person",
+          "textHtml": "<p>Marketing is digital, selling is in person</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Marketing earns attention and trust before contact; selling converts that trust into revenue",
+          "textHtml": "<p>Marketing earns attention and trust before contact; selling converts that trust into revenue</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Marketing is free, selling is paid",
+          "textHtml": "<p>Marketing is free, selling is paid</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "They are the same thing",
+          "textHtml": "<p>They are the same thing</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Marketing is everything that earns attention and trust before a customer reaches out. Selling happens once they have. Strong marketing makes selling easier.",
+      "feedbackHtml": "<p>Marketing earns attention and trust; selling converts it into revenue.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Which are the three pillars of effective drone marketing?",
+      "questionHtml": "<p>Select ALL that apply: Which are the three pillars of effective drone marketing?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "Visibility — people see you exist",
+          "textHtml": "<p>Visibility — people see you exist</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_b",
+          "text": "Credibility — people trust your work",
+          "textHtml": "<p>Credibility — people trust your work</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_c",
+          "text": "Clarity — people know how to hire you",
+          "textHtml": "<p>Clarity — people know how to hire you</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_d",
+          "text": "Virality — people share your content widely",
+          "textHtml": "<p>Virality — people share your content widely</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Visibility, credibility, and clarity work together. Virality is a vanity outcome — it does not pay the bills on its own.",
+      "feedbackHtml": "<p>The three pillars are visibility, credibility, and clarity.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why is specialising in one customer type usually better than marketing to everyone?",
+      "questionHtml": "<p>Why is specialising in one customer type usually better than marketing to everyone?</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "It reduces the work you can take on",
+          "textHtml": "<p>It reduces the work you can take on</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_b",
+          "text": "It makes marketing cheaper, sales conversations shorter, and referrals more useful",
+          "textHtml": "<p>It makes marketing cheaper, sales conversations shorter, and referrals more useful</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "It is required by the FAA",
+          "textHtml": "<p>It is required by the FAA</p>",
+          "correct": false
+        },
+        {
+          "id": "q3_d",
+          "text": "It guarantees higher prices",
+          "textHtml": "<p>It guarantees higher prices</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "A generalist competes with every other generalist on price. A specialist competes with almost no one — that is why specialising is the cheaper, faster path.",
+      "feedbackHtml": "<p>Specialising makes marketing cheaper, sales easier, and referrals more useful.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which of these is the strongest value proposition for a drone business?",
+      "questionHtml": "<p>Which of these is the strongest value proposition for a drone business?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "We provide high-quality drone footage at competitive rates",
+          "textHtml": "<p>We provide high-quality drone footage at competitive rates</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Professional aerial photography and videography services",
+          "textHtml": "<p>Professional aerial photography and videography services</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_c",
+          "text": "I help solar installers cut inspection time in half using thermal drone surveys, without putting techs on roofs in the heat",
+          "textHtml": "<p>I help solar installers cut inspection time in half using thermal drone surveys, without putting techs on roofs in the heat</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_d",
+          "text": "Licensed Part 107 pilot serving the tri-state area",
+          "textHtml": "<p>Licensed Part 107 pilot serving the tri-state area</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "The strongest value proposition names a specific customer, a specific outcome, the service, and the pain point avoided. Generic statements could belong to any operator.",
+      "feedbackHtml": "<p>Specific customer + specific outcome + service + pain point avoided.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which metric should you track most closely on a small drone business marketing plan?",
+      "questionHtml": "<p>Which metric should you track most closely on a small drone business marketing plan?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Follower count",
+          "textHtml": "<p>Follower count</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Total likes per post",
+          "textHtml": "<p>Total likes per post</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_c",
+          "text": "Inquiries per month and the conversion rate to paid jobs",
+          "textHtml": "<p>Inquiries per month and the conversion rate to paid jobs</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_d",
+          "text": "Number of platforms you are active on",
+          "textHtml": "<p>Number of platforms you are active on</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Likes and followers are vanity metrics. Inquiries and conversions tell you whether your marketing is producing revenue.",
+      "feedbackHtml": "<p>Track inquiries and conversion rate — those move revenue.</p>"
+    }
+  ]
+}

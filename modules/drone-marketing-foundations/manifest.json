@@ -1,0 +1,13 @@
+{
+  "id": "drone-marketing-foundations",
+  "title": "Marketing Foundations",
+  "description": "Understand why marketing matters for drone businesses, identify your target customers, craft a clear value proposition, and build a simple marketing plan you will actually use.",
+  "tags": ["drone-business", "marketing", "fundamentals", "strategy"],
+  "lessons": [
+    { "id": "why-marketing-matters", "title": "Why Marketing Matters for Drone Businesses", "type": "content", "markdownPath": "01_Why_Marketing_Matters.md" },
+    { "id": "target-customers", "title": "Identifying Your Target Customers", "type": "content", "markdownPath": "02_Target_Customers.md" },
+    { "id": "value-proposition", "title": "Crafting Your Value Proposition", "type": "content", "markdownPath": "03_Value_Proposition.md" },
+    { "id": "marketing-plan", "title": "Building a Simple Marketing Plan", "type": "content", "markdownPath": "04_Marketing_Plan.md" },
+    { "id": "quiz", "title": "Marketing Foundations Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}

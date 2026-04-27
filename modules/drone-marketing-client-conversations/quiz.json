@@ -1,0 +1,182 @@
+{
+  "title": "Talking to Clients Quiz",
+  "type": "quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the most important factor in converting an inbound inquiry into a paying job?",
+      "questionHtml": "<p>What is the most important factor in converting an inbound inquiry into a paying job?</p>",
+      "answers": [
+        {
+          "id": "q1_a",
+          "text": "Sending the longest, most detailed first reply possible",
+          "textHtml": "<p>Sending the longest, most detailed first reply possible</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_b",
+          "text": "Speed of response — a prompt acknowledgment within an hour beats a polished reply hours later",
+          "textHtml": "<p>Speed of response — a prompt acknowledgment within an hour beats a polished reply hours later</p>",
+          "correct": true
+        },
+        {
+          "id": "q1_c",
+          "text": "Sending a full quote in the first message",
+          "textHtml": "<p>Sending a full quote in the first message</p>",
+          "correct": false
+        },
+        {
+          "id": "q1_d",
+          "text": "Linking your portfolio first",
+          "textHtml": "<p>Linking your portfolio first</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Inquiries cool quickly. A short, prompt acknowledgment converts dramatically better than a perfect reply that arrives hours later.",
+      "feedbackHtml": "<p>Speed of response is the highest-leverage variable in lead conversion.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What rough talking ratio should hold during a discovery conversation?",
+      "questionHtml": "<p>What rough talking ratio should hold during a discovery conversation?</p>",
+      "answers": [
+        {
+          "id": "q2_a",
+          "text": "You speak 70%, the customer speaks 30%",
+          "textHtml": "<p>You speak 70%, the customer speaks 30%</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_b",
+          "text": "Roughly equal — 50/50",
+          "textHtml": "<p>Roughly equal — 50/50</p>",
+          "correct": false
+        },
+        {
+          "id": "q2_c",
+          "text": "The customer should talk roughly twice as much as you",
+          "textHtml": "<p>The customer should talk roughly twice as much as you</p>",
+          "correct": true
+        },
+        {
+          "id": "q2_d",
+          "text": "You speak only at the end with the price",
+          "textHtml": "<p>You speak only at the end with the price</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Aim for the customer to talk twice as much as you. If you are doing more than 40% of the talking, switch to listening mode — questions build trust faster than pitching.",
+      "feedbackHtml": "<p>Customer talks roughly two-thirds of the time; you ask and listen.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Select ALL that apply: Strong reasons to send three-tier (Good / Better / Best) quotes when scope is flexible.",
+      "questionHtml": "<p>Select ALL that apply: Strong reasons to send three-tier (Good / Better / Best) quotes when scope is flexible.</p>",
+      "answers": [
+        {
+          "id": "q3_a",
+          "text": "Customers tend to choose the middle option",
+          "textHtml": "<p>Customers tend to choose the middle option</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_b",
+          "text": "The Best tier raises the ceiling and can lift average deal size",
+          "textHtml": "<p>The Best tier raises the ceiling and can lift average deal size</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_c",
+          "text": "Tiers feel like real choices and reduce sticker shock at the lowest price",
+          "textHtml": "<p>Tiers feel like real choices and reduce sticker shock at the lowest price</p>",
+          "correct": true
+        },
+        {
+          "id": "q3_d",
+          "text": "It signals desperation and forces a discount",
+          "textHtml": "<p>It signals desperation and forces a discount</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Three-tier proposals raise average deal size, reduce sticker shock, and let customers anchor on a 'middle' option. They do not signal desperation when tiers genuinely differ in deliverables.",
+      "feedbackHtml": "<p>Tiers create real choices and lift average deal size.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What should you do immediately after stating a price out loud?",
+      "questionHtml": "<p>What should you do immediately after stating a price out loud?</p>",
+      "answers": [
+        {
+          "id": "q4_a",
+          "text": "Quickly add 'but I might be able to discount it'",
+          "textHtml": "<p>Quickly add 'but I might be able to discount it'</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_b",
+          "text": "Stay silent for at least three seconds and let the customer respond first",
+          "textHtml": "<p>Stay silent for at least three seconds and let the customer respond first</p>",
+          "correct": true
+        },
+        {
+          "id": "q4_c",
+          "text": "Repeat the price louder",
+          "textHtml": "<p>Repeat the price louder</p>",
+          "correct": false
+        },
+        {
+          "id": "q4_d",
+          "text": "Apologise for it being high",
+          "textHtml": "<p>Apologise for it being high</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Stay silent. The first person to speak after a price is named tends to give ground. Pre-discounting before the customer even reacts trains them to expect it next time.",
+      "feedbackHtml": "<p>Say the price calmly, stay silent for several seconds, never pre-discount.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the best way to handle the objection 'It's too expensive'?",
+      "questionHtml": "<p>What is the best way to handle the objection 'It's too expensive'?</p>",
+      "answers": [
+        {
+          "id": "q5_a",
+          "text": "Immediately offer a discount",
+          "textHtml": "<p>Immediately offer a discount</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_b",
+          "text": "Defend your rate by listing your equipment and certifications",
+          "textHtml": "<p>Defend your rate by listing your equipment and certifications</p>",
+          "correct": false
+        },
+        {
+          "id": "q5_c",
+          "text": "Acknowledge, ask a clarifying question (e.g. 'compared to what?'), then reframe — usually adjusting scope rather than rate",
+          "textHtml": "<p>Acknowledge, ask a clarifying question (e.g. 'compared to what?'), then reframe — usually adjusting scope rather than rate</p>",
+          "correct": true
+        },
+        {
+          "id": "q5_d",
+          "text": "Send a more polished proposal",
+          "textHtml": "<p>Send a more polished proposal</p>",
+          "correct": false
+        }
+      ],
+      "feedback": "Acknowledge, ask, reframe. 'Too expensive' often means 'I don't yet see the value' or 'the scope is heavier than I need.' Asking 'compared to what?' separates those situations and keeps the rate intact.",
+      "feedbackHtml": "<p>Use the acknowledge-ask-reframe pattern; adjust scope, not rate.</p>"
+    }
+  ]
+}

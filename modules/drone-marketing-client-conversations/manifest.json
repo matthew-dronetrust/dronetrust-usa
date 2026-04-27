@@ -1,0 +1,13 @@
+{
+  "id": "drone-marketing-client-conversations",
+  "title": "Talking to Clients",
+  "description": "Turn inquiries into paying jobs — first contact and discovery, asking the right questions, pricing conversations and quotes, and handling objections to close.",
+  "tags": ["drone-business", "marketing", "sales", "client-communication"],
+  "lessons": [
+    { "id": "first-contact-and-discovery", "title": "First Contact and Discovery", "type": "content", "markdownPath": "01_First_Contact_And_Discovery.md" },
+    { "id": "asking-the-right-questions", "title": "Asking the Right Questions", "type": "content", "markdownPath": "02_Asking_Right_Questions.md" },
+    { "id": "pricing-and-quotes", "title": "Pricing Conversations and Quotes", "type": "content", "markdownPath": "03_Pricing_And_Quotes.md" },
+    { "id": "objections-and-closing", "title": "Handling Objections and Closing", "type": "content", "markdownPath": "04_Objections_And_Closing.md" },
+    { "id": "quiz", "title": "Talking to Clients Quiz", "type": "quiz", "quizPath": "quiz.json" }
+  ]
+}
